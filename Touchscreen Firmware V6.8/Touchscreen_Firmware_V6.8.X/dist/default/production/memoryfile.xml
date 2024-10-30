@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/default/production/Touchscreen_Firmware_V6.8.X.production.elf">
+    <memory name="program">
+      <units>bytes</units>
+      <length>131072</length>
+      <used>11750</used>
+      <free>119322</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>16384</length>
+      <used>5228</used>
+      <free>11156</free>
+    </memory>
+  </executable>
+</project>
